@@ -8,7 +8,7 @@
 ## что вам нужно для запуска
 
 - .Net 10.0
-- Brain..? 🧑🏿‍🦯
+- Brain..ю? 🧑🏿‍🦯
 
 ## где скачать клиент
 - [Скачать пропатченный клиент можно тут](https://drive.google.com/file/d/1HXehUgq5KWZ7gIyRGtEKZjMGVsdn43IP/view?usp=sharing)
