@@ -11,5 +11,5 @@
 - Brain..? 🧑🏿‍🦯
 
 ## где скачать клиент
--[скачать пропатченый клиент можно тут](https://drive.google.com/file/d/1HXehUgq5KWZ7gIyRGtEKZjMGVsdn43IP/view?usp=sharing)
+-[скачать пропатченый клиент можно тут](https://drive.google.com/file/d/1HXehUgq5KWZ7gIyRGtEKZjMGVsdn43IP/view?usp=sharing) \n
 -p,s клиент был созлан сначала для одного сервера потом этот сервер закрылся
