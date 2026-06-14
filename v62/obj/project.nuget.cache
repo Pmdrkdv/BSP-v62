@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y2YC++wDYCg=",
+  "success": true,
+  "projectFilePath": "/home/pmdrk/Videos/BSPv63 Source/v63/v63.csproj",
+  "expectedPackageFiles": [
+    "/home/pmdrk/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

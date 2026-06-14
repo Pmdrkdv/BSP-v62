@@ -1,0 +1,28 @@
+c:\Users\PmdrK\Documents\мобилизация\dv52\bin\Debug\net10.0\v.exe
+C:\Users\PmdrK\Documents\мобилизация\dv52\bin\Debug\net10.0\v.deps.json
+C:\Users\PmdrK\Documents\мобилизация\dv52\bin\Debug\net10.0\v.runtimeconfig.json
+c:\Users\PmdrK\Documents\мобилизация\dv52\bin\Debug\net10.0\v.dll
+c:\Users\PmdrK\Documents\мобилизация\dv52\bin\Debug\net10.0\v.pdb
+c:\Users\PmdrK\Documents\мобилизация\dv52\obj\Debug\net10.0\v.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PmdrK\Documents\мобилизация\dv52\obj\Debug\net10.0\v.AssemblyInfoInputs.cache
+c:\Users\PmdrK\Documents\мобилизация\dv52\obj\Debug\net10.0\v.AssemblyInfo.cs
+c:\Users\PmdrK\Documents\мобилизация\dv52\obj\Debug\net10.0\v.csproj.CoreCompileInputs.cache
+c:\Users\PmdrK\Documents\мобилизация\dv52\obj\Debug\net10.0\v.dll
+c:\Users\PmdrK\Documents\мобилизация\dv52\obj\Debug\net10.0\refint\v.dll
+c:\Users\PmdrK\Documents\мобилизация\dv52\obj\Debug\net10.0\v.pdb
+C:\Users\PmdrK\Documents\мобилизация\dv52\obj\Debug\net10.0\v.genruntimeconfig.cache
+C:\Users\PmdrK\Documents\мобилизация\dv52\obj\Debug\net10.0\ref\v.dll
+c:\Users\PmdrK\Videos\BSPv63 Source\v63\bin\Debug\net10.0\v.exe
+C:\Users\PmdrK\Videos\BSPv63 Source\v63\bin\Debug\net10.0\v.deps.json
+C:\Users\PmdrK\Videos\BSPv63 Source\v63\bin\Debug\net10.0\v.runtimeconfig.json
+c:\Users\PmdrK\Videos\BSPv63 Source\v63\bin\Debug\net10.0\v.dll
+c:\Users\PmdrK\Videos\BSPv63 Source\v63\bin\Debug\net10.0\v.pdb
+c:\Users\PmdrK\Videos\BSPv63 Source\v63\obj\Debug\net10.0\v.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PmdrK\Videos\BSPv63 Source\v63\obj\Debug\net10.0\v.AssemblyInfoInputs.cache
+c:\Users\PmdrK\Videos\BSPv63 Source\v63\obj\Debug\net10.0\v.AssemblyInfo.cs
+c:\Users\PmdrK\Videos\BSPv63 Source\v63\obj\Debug\net10.0\v.csproj.CoreCompileInputs.cache
+c:\Users\PmdrK\Videos\BSPv63 Source\v63\obj\Debug\net10.0\v.dll
+c:\Users\PmdrK\Videos\BSPv63 Source\v63\obj\Debug\net10.0\refint\v.dll
+c:\Users\PmdrK\Videos\BSPv63 Source\v63\obj\Debug\net10.0\v.pdb
+C:\Users\PmdrK\Videos\BSPv63 Source\v63\obj\Debug\net10.0\v.genruntimeconfig.cache
+C:\Users\PmdrK\Videos\BSPv63 Source\v63\obj\Debug\net10.0\ref\v.dll
